@@ -5,3 +5,4 @@
 * [nlohmann json](https://github.com/nlohmann/json)
 * [taskflow](https://github.com/taskflow/taskflow)
 * [PicoSHA2](https://github.com/okdshin/PicoSHA2)
+* [eigen](https://gitlab.com/libeigen/eigen)
